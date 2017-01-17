@@ -1,0 +1,14 @@
+#header-nav {
+    background-color:#f0f8ff;
+    border-radius: 0;
+    border : 0;
+}
+
+.navbar-header span {
+    color:#080808;
+}
+
+/*@media (max-width: 767px)
+.visible-xs {
+    display: none!important;
+}*/
