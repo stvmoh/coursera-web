@@ -1,5 +1,5 @@
 #header-nav {
-    background-color:#f0f8ff;
+    background-color:#951C49;
     border-radius: 0;
     border : 0;
 }
@@ -8,7 +8,20 @@
     color:#080808;
 }
 
-/*@media (max-width: 767px)
-.visible-xs {
-    display: none!important;
-}*/
+#nav-list div {
+    text-align:center;
+    color:#080808;
+    font-size:1.5em;
+    display:block;
+    vertical-align:center;
+}
+
+#nav-list {
+    background-color:#f6b319;
+    margin-top:0;
+    margin-bottom:0;
+}
+
+#nav-list hr {
+    margin: auto auto 0 0;
+}
