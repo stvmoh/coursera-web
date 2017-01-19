@@ -1,11 +1,14 @@
+/*header*/
 #header-nav {
     background-color:#951C49;
     border-radius: 0;
     border : 0;
 }
 
-.navbar-header span {
+.navbar-brand span {
     color:#080808;
+    font-weight:bold;
+    font-size:1.3em;
 }
 
 #nav-list div {
