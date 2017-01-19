@@ -9,7 +9,7 @@
 }
 
 #nav-list div {
-    text-align:center;
+    /*text-align:center;*/
     color:#080808;
     font-size:1.5em;
     display:block;
@@ -25,3 +25,16 @@
 #nav-list hr {
     margin: auto auto 0 0;
 }
+
+/*main content*/
+.section {
+    border: 1px solid black;
+    background-color:gray;
+    height: 1000px;
+    margin-bottom: 10px;
+}
+
+.section-title {
+    font-size: 1.5em;
+}
+
